@@ -25,5 +25,5 @@
   <li> 🐧 Os: Linux  Parrot.os🦜 </li>
   <li> 🐼 Team: PandaCoders </li>
   <li> ☕ Fun fact: Any friend of coffe is a friend of mine!</li>
-  <li> 📫 Reach me: <a href="https://gmail.com/bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> </li>
+  <li> 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> </li>
 </ul>
