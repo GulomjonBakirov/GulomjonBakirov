@@ -28,21 +28,21 @@
  
 ## 🔨 Languages and Tools:
 
-[<img align="left" alt="HTML" width="26px" src="./img/html.svg" />]
-[<img align="left" alt="CSS" width="26px" src="./img/css.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" />]
-[<img align="left" alt="TypeScript" width="26px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" />]
-[<img align="left" alt="React" width="26px" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" />]
-[<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.svg" />]
-[<img align="left" alt="Yarn" width="26px" src="https://camo.githubusercontent.com/9ec5d0c3f7552908b21cfa4cc656e5bd2b6f1c4d2f46225a3ff1d2ee176ec4ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7961726e2e737667" />]
-[<img align="left" alt="Parrot Os" width="26px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" />]
-[<img align="left" alt="Terminal Console" width="26px" src="./img/console.svg" />]
-[<img align="left" alt="Powershell" width="26px" src="./img/powershell.svg" />]
-[<img align="left" alt="Git" width="26px" src="./img/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="./img/github.svg" />]
-
-
+<img align="left" alt="HTML" width="26px" src="./images/html.svg" />
+<img align="left" alt="CSS" width="26px" src="./images/css.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" />
+<img align="left" alt="TypeScript" width="26px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" />
+<img align="left" alt="React" width="26px" src="https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" />
+<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+<img align="left" alt="Yarn" width="26px" src="https://camo.githubusercontent.com/9ec5d0c3f7552908b21cfa4cc656e5bd2b6f1c4d2f46225a3ff1d2ee176ec4ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7961726e2e737667" />
+<img align="left" alt="Parrot Os" width="26px" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" />
+<img align="left" alt="Terminal Console" width="26px" src="./images/console.svg" />
+<img align="left" alt="Powershell" width="26px" src="./images/powershell.svg" />
+<img align="left" alt="Git" width="26px" src="./images/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="./images/github.svg" />
+<br />
+<br />
  
  ## ⚜ G'ulomjon's github stats
 ![G'ulomjon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GulomjonBakirov&show_icons=true&theme=tokyonight&count_private=true)
