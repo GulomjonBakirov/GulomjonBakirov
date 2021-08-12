@@ -9,22 +9,22 @@
 
 <br />
 <strong>BIO</strong>
-<ul>
-  <li> :four_leaf_clover: Full Name: Bakirov G`ulomjon</li>
-  <li> 🐊 Tools: <code>Javascript</code> <code>Python</code>  </li>
-  <li> ➕ I'm currently learning <a href="socket.io">socket.io</a></li>
-<!--   <li> 🏢 I'm freelancer</li> -->
-  <li> ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.sass</code> <code>.html</code> <code>.py</code> </li>
-  <li> 🍂 Frameworks: 
-    <ul>
-      <li>React.js</li>
-      <li>Node.js</li>
-      <li>jQuery</li>
-      <li>django</li>
-    </ul> 
-  </li>
-  <li> 🐧 Os: Linux  Parrot.os🦜 </li>
-  <li> 🐼 Team: PandaCoders </li>
-  <li> ☕ Fun fact: Any friend of coffe is a friend of mine!</li>
-  <li> 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> </li>
-</ul>
+
+  - :four_leaf_clover: Full Name: Bakirov G`ulomjon
+  - 🐊 Tools: <code>Javascript</code> <code>Python</code> 
+  - ➕ I'm currently learning <a href="socket.io">socket.io</a>
+  - 🏢 I'm freelancer
+  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.sass</code> <code>.html</code> <code>.py</code> 
+  - 🍂 Frameworks: 
+      - React.js
+      - Node.js
+      - jQuery
+      - django
+    
+  - 🐧 Os: Linux  Parrot.os🦜 
+  - 🐼 Team: PandaCoders 
+  - ☕ Fun fact: Any friend of coffe is a friend of mine!
+  - 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> 
+ 
+ ## ⚜ G'ulomjon's github stats
+![G'ulomjon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GulomjonBakirov&show_icons=true&theme=tokyonight&count_private=true)
