@@ -11,7 +11,7 @@
 <strong>BIO</strong>
 <ul>
   <li> :four_leaf_clover: Full Name: Bakirov G`ulomjon</li>
-  <li> 🐊 Job: <code>Javascript</code> <code>Python</code>  </li>
+  <li> 🐊 Tools: <code>Javascript</code> <code>Python</code>  </li>
 <!--   <li> 🏢 I'm freelancer</li> -->
   <li> ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.sass</code> <code>.html</code> <code>.py</code> </li>
   <li> 🍂 Frameworks: 
