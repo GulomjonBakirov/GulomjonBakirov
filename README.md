@@ -6,6 +6,7 @@
    <a href="https://www.facebook.com/gulomjon.bakirov.7/" target="_blank"><img height="30" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
    <a href="https://t.me/bak1roff" target="_blank"><img height="30" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /></a>
  <a href="https://https://auth.geeksforgeeks.org/user/bakirovgulomjon" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/GBakirov/" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" /></a>
 </div>
 
 <br />
