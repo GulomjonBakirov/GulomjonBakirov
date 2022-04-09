@@ -13,7 +13,7 @@
 <strong>BIO</strong>
 
   - :four_leaf_clover: Full Name: Bakirov G`ulomjon
-  - 🏅 Portfolio: [gulomjonbakirov.uz](https://gulomjonbakirov.uz)
+  - 🏅 Portfolio: [gulomjonbakirov.uz](https://gulomjonbakirov.netlify.app)
   - 🐊 Tools: <code>Javascript</code> <code>Python</code> 
   - ➕ I'm currently learning <a href="socket.io">socket.io</a>
   - 🏢 I'm freelancer
