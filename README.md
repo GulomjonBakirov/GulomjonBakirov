@@ -17,7 +17,7 @@
   - 🐊 Tools: <code>Javascript</code> <code>Python</code> 
   - ➕ I'm currently learning <a href="socket.io">socket.io</a>
   - 🏢 I'm freelancer
-  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.sass</code> <code>.html</code> <code>.py</code> 
+  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code> <code>.py</code> 
   - 🍂 Frameworks: 
       - React.js
       - Node.js
