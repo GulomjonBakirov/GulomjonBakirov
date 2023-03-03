@@ -24,7 +24,7 @@
       - jQuery
       - django
     
-  - 🐧 Os: Linux  Parrot.os🦜 
+  - 🐧 Os: Arch Linux 🦜 
   - 🐼 Team: PandaCoders 
   - ☕ Fun fact: Any friend of coffe is a friend of mine!
   - 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> 
