@@ -12,7 +12,7 @@
   - :four_leaf_clover: Full Name: Bakirov G`ulomjon
   - 🏅 Portfolio: [gulomjonbakirov.uz](https://gulomjonbakirov.netlify.app)
   - 🐊 Tools: <code>Javascript</code> <code>Python</code> 
-  - ➕ I'm currently learning <a href="socket.io">socket.io</a>
+  - ➕ I'm currently learning <a href="[microservice](https://www.startpage.com/do/search?q=microservice+architecture&segment=startpage.brave)">microservice architecture</a>
   - 🏢 I'm freelancer
   - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code> <code>.py</code> 
   - 🍂 Frameworks: 
@@ -24,7 +24,7 @@
   - 🐧 Os: Arch Linux 🦜 
   - 🐼 Team: PandaCoders 
   - ☕ Fun fact: Any friend of coffe is a friend of mine!
-  - 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> 
+  - 📫 Reach me: <a href="mailto: bakirov.dev@gmail.com" target="_blank"> bakirov.dev@gmail.com </a> 
  
 ## 🔨 Languages and Tools:
 
