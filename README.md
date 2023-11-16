@@ -46,3 +46,9 @@
  
  ## ⚜ G'ulomjon's github stats
 ![G'ulomjon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GulomjonBakirov&show_icons=true&theme=tokyonight&count_private=true)
+
+ ## ⚜ G'ulomjon's leetcode stats
+![LeetCode Stats](https://leetcode.card.workers.dev/GBakirov?theme=default&font=&extension=null)
+
+ ## ⚜ G'ulomjon's visitors stats
+<img src="https://profile-counter.glitch.me/{GulomjonBakirov}/count.svg"/>
